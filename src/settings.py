@@ -1,0 +1,1 @@
+COLORS = ['navy', 'turquoise', 'darkorange']
